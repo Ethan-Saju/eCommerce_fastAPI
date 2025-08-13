@@ -68,7 +68,7 @@ Open another terminal and run the following commands
 cd eCommerce_fastAPI
 cd  frontend
 npm install
-npm start
+npm run dev
 
 ```
 7. **Access the application**
