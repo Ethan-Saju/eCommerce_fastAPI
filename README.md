@@ -20,7 +20,7 @@ A full-stack eCommerce web application that allows users to browse products, man
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/ecommerce-fastapi.git
+git clone https://github.com/Ethan-Saju/eCommerce_fastAPI.git
 cd ecommerce-fastapi
 ```
 
