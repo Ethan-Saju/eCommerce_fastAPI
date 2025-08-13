@@ -78,7 +78,7 @@ Once both backend and frontend are running, open your browser and go to: http://
 
 You can log in using the sample user credentials:  
 
-- **Username:** `user`  
+- **Email:** `user@example.com`  
 - **Password:** `qwerty`
 
 You should now see the app running locally.
