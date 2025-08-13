@@ -62,10 +62,11 @@ python start.py
 ```
 6. **Run the frontend**
 
-Navigate to the frontend folder and start the app:
+Open another terminal and 
 
 ```bash
-cd ../frontend
+cd Commerce_fastAPI
+cd  frontend
 npm install
 npm start
 
